@@ -2,7 +2,14 @@
 
 ## 📑 Kebutuhan Dataset
 
-Analisis ini menggunakan algoritma **K-Means** untuk mengelompokkan produk berdasarkan harga, ongkos kirim, ulasan pelanggan dan pengiriman. Prediksi produk potensial dilakukan dengan membandingkan performa **Logistic Regression** dan **Support Vector Machine (SVM)** untuk mendukung strategi bisnis yang lebih efektif.
+Data yang dibutuhkan untuk analisis ini mencakup informasi seperti:
+
+- Harga produk
+- Ongkos kirim
+- Skor ulasan
+- Durasi pengiriman
+- Kompleksitas produk
+  Informasi tersebut digunakan untuk menemukan pola pengelompokan produk dan memprediksi produk yang berpotensi laris berdasarkan karakteristik tertentu.
 
 ## 🌐 Sumber Dataset
 
