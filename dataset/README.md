@@ -1,8 +1,8 @@
-# Analisis K-Means Clustering dan Prediksi Produk Potensial
+# Penjelasan dan Rincian Data Set yang Digunakan
 
 ## 📑 Kebutuhan Dataset
 
-Analisis ini menggunakan algoritma **K-Means** untuk mengelompokkan produk berdasarkan harga, ongkos kirim, dan ulasan pelanggan. Prediksi produk potensial dilakukan dengan membandingkan performa **Logistic Regression** dan **Support Vector Machine (SVM)** untuk mendukung strategi bisnis yang lebih efektif.
+Analisis ini menggunakan algoritma **K-Means** untuk mengelompokkan produk berdasarkan harga, ongkos kirim, ulasan pelanggan dan pengiriman. Prediksi produk potensial dilakukan dengan membandingkan performa **Logistic Regression** dan **Support Vector Machine (SVM)** untuk mendukung strategi bisnis yang lebih efektif.
 
 ## 🌐 Sumber Dataset
 
