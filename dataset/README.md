@@ -36,4 +36,4 @@ Berikut adalah fitur/kolom yang dipilih untuk proses clustering:
 8. `product_volume_cm3`: Volume Ukuran Produk
 9. `order_status_encoded`: Status Pengiriman Produk
 
-Pemilihan dan penanganan fitur/kolom pada proses clustering ini menghasilkan kolom baru yaitu **cluster_category**, yang siap digunakan untuk tahap **klasifikasi prediksi data**.
+Pemilihan dan penanganan fitur/kolom pada proses clustering ini menghasilkan kolom baru yaitu **cluster_category**, kemudian disimpan dalam file `hasil_clustering.csv` yang siap digunakan untuk tahap **klasifikasi dan prediksi data**.
