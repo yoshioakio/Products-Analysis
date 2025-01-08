@@ -9,7 +9,8 @@ Data yang dibutuhkan untuk analisis ini mencakup informasi seperti:
 - Skor ulasan
 - Durasi pengiriman
 - Kompleksitas produk
-  Informasi tersebut digunakan untuk menemukan pola pengelompokan produk dan memprediksi produk yang berpotensi laris berdasarkan karakteristik tertentu.
+
+Informasi tersebut digunakan untuk menemukan pola pengelompokan produk dan memprediksi produk yang berpotensi laris berdasarkan karakteristik tertentu.
 
 ## 🌐 Sumber Dataset
 
