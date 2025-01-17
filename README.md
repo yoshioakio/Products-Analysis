@@ -49,4 +49,8 @@ pip install seaborn
 pip install scikit-learn
 ```
 
-# 🖇️ [Tautan ke Laporan Analisis dan Presentasi](https://drive.google.com/drive/folders/1Bx0iGIXtDx0dPQmd8BwpMCeon6jUZ0p2?usp=sharing)
+# Tautan ke Laporan Analisis dan Presentasi 🖇️
+
+## 🗂️ [Link Laporan & Ppt](https://drive.google.com/drive/folders/1Bx0iGIXtDx0dPQmd8BwpMCeon6jUZ0p2?usp=sharing)
+
+## 🎬 [Link Presentasi Youtube](https://youtu.be/apkLgvqztQE?si=MZ4mbtN8hsQzrRqC)
